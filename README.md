@@ -1,1 +1,1 @@
-# curso-springboot-web
+# proyecto-reuniones-springboot-web
